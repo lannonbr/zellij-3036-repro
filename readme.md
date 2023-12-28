@@ -1,0 +1,1 @@
+A Reproduction of making a web request with the `surf` crate. Majority of the source for the web request logic is taken from the zellij codebase https://github.com/zellij-org/zellij/blob/b3397ccbd0d03a313043504e543d4de8037e6676/zellij-server/src/background_jobs.rs#L256-L316 as we're trying to run down an error where web requests are failing on macOS.
