@@ -13,3 +13,4 @@ async-std = { version = "1.3.0", features = ["unstable", "attributes"] }
 surf = { version = "2.3.2", default-features = false, features = [
   "curl-client",
 ] }
+openssl-sys = { version = "0.9.93", features = ["vendored"] }
